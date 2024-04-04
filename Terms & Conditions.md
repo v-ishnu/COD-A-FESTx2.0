@@ -10,6 +10,13 @@
 
 <h4>1. Eligibility</h4>
 
+<p>The COD-A-FESTx 2.0 is designed to empower individuals from all walks of life. We enthusiastically welcome participation from anyone residing in Lovely Professional University who possesses a fervent passion for innovation and a tenacious spirit for tackling real-world challenges. There are no restrictions based on age, background, or prior experience.
+</p>
+
+<h4>1. Eligibility</h4>
+
+<p>Participation in the COD-A-FESTx 2.0 is entirely free. We champion inclusivity and believe that financial constraints should not impede participation in such a transformative event. Registration can be conveniently completed online at the following link: **[Register Yourself](https://forms.gle/NKDJmi3fk8zznuqF9)**. The registration deadline is 11th April, 2024.
+</p>
 - 🔭 I’m currently working on **[Mrtian](https://mrtian.in)**, **[Codr](https://codr.mrtian.in)**, & **InnovXus**
 
 - 🌱 I’m currently learning **Dart Language**, **BlockChain**, & **App Development**
