@@ -2,28 +2,25 @@
 <h1 align="center">Terms & Condition</h1>
 <p>Terms and Conditions for the COD-A-FESTx 2.0 <p>
 
-<h4>1. Eligibility </h4>
+<h3>1. Eligibility </h3>
 
 The **COD-A-FESTx 2.0** is designed to empower individuals from all walks of life. We enthusiastically welcome participation from anyone residing in Lovely Professional University who possesses a fervent passion for innovation and a tenacious spirit for tackling real-world challenges. There are no restrictions based on age, background, or prior experience.
 
-<h4>2. Registration </h4>
+<h3>2. Registration </h3>
 
 Participation in the COD-A-FESTx 2.0 is entirely free. We champion inclusivity and believe that financial constraints should not impede participation in such a transformative event. Registration can be conveniently completed online at the following link: **[Register Yourself](https://forms.gle/NKDJmi3fk8zznuqF9)**. The registration deadline is **11th April, 2024**.
 
 By registering for the COD-A-FESTx 2.0, you acknowledge that you have thoroughly reviewed and comprehended these Terms and Conditions and agree to be bound by their stipulations.
 
-<h4>3. Optional Certificate of Participation </h4>
+<h3>3. Optional Certificate of Participation </h3>
 
 While participation in the COD-A-FESTx 2.0 itself is cost-free, an official Certificate of Participation is available for those who desire formal recognition of their invaluable contribution.  This prestigious certificate serves as a valuable addition to your professional portfolio, demonstrably showcasing your involvement in a highly esteemed innovation event and the invaluable skills honed during the competition. The nominal fee for the optional Certificate of Participation is ₹99.
 
-<h4>4. COD-A-FESTx 2.0 Project </h4>
+<h3>4. COD-A-FESTx 2.0 Project </h3>
 
 The COD-A-FESTx 2.0 will center around the captivating theme of [Theme]. We fervently encourage participants to unleash their creativity and develop ingenious solutions that directly address [Specific areas of focus (e.g., social good, technical innovation)]. All submitted projects must be wholly original creations of the participant(s) and demonstrably comply with all applicable intellectual property laws and regulations.
 
-
-<h4>3. Optional Certificate of Participation </h4>
-
-<h4>5. Submission Guidelines </h4>
+<h3>5. Submission Guidelines </h3>
 
 Submissions for the COD-A-FESTx 2.0 must be meticulously prepared and electronically submitted by the designated deadline of [Submission deadline] through the designated platform: [Submission platform (e.g., Devpost)].
 
@@ -34,21 +31,21 @@ A fully functional prototype or comprehensive demonstration that vividly showcas
 Any relevant source code, meticulously accompanied by thorough commenting and, if applicable, pertinent licensing information.
 Submissions that are incomplete or demonstrably deviate from the outlined guidelines may be disqualified at the sole discretion of the organizers.
 
-<h4>6. Code of Conduct </h4>
+<h3>6. Code of Conduct </h3>
 
 The COD-A-FESTx 2.0 organizers are unwavering in their commitment to fostering a professional, inclusive, and respectful environment that  empowers all participants to thrive. We expect all participants to consistently conduct themselves with the utmost integrity and unwavering courtesy throughout the duration of the event.  Harassment, discrimination, or any form of unprofessional behavior will not be tolerated under any circumstances.  The organizers reserve the right to remove participants from the Hackathon for blatant or repeated violations of the Code of Conduct.
 
-<h4>7. Intellectual Property </h4>
+<h3>7. Intellectual Property </h3>
 
 Participants retain full and unfettered ownership of all intellectual property rights associated with their submitted projects. However, by participating in the Hackathon, participants grant the organizers a non-exclusive license to utilize project materials for promotional purposes directly related to the Hackathon itself.
 
 
-<h4>8. Prizes </h4>
+<h3>8. Prizes </h3>
 
 A distinguished panel of highly esteemed judges will meticulously evaluate all submitted projects based on a pre-established set of criteria, which will be publicly announced in advance of the Hackathon. The winning projects will be recognized and awarded prestigious prizes at the conclusion of the event.  Detailed information regarding the prize structure, designated categories, and the meticulous selection process will be made readily available to all registered participants prior to the Hackathon.
 
 
-<h4>9. Disclaimer </h4>
+<h3>9. Disclaimer </h3>
 
 The Hackathon organizers  cannot be held legally liable for any unforeseen technical difficulties, internet outages, or unforeseen circumstances that may unfortunately hinder participation. The organizers reserve the right to modify the Hackathon schedule, judging criteria, or prize structure at any time.  Timely notification of any such modifications will be disseminated to all registered participants.
 
