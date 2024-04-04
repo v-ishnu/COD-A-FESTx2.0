@@ -1,6 +1,6 @@
 **[Register Yourself](https://v-ishnu.github.io/Home/)**
 <h1 align="center">Terms & Condition</h1>
-<h3 align="left">Terms and Conditions for the COD-A-FESTx 2.0 </h3>
+<p>Terms and Conditions for the COD-A-FESTx 2.0 <p>
 
 <h4>1. Eligibility </h4>
 
