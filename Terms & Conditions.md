@@ -1,9 +1,6 @@
 **[Register Yourself](https://v-ishnu.github.io/Home/)**
 <h1 align="center">Terms & Condition</h1>
 <h3 align="left">Terms and Conditions for the COD-A-FESTx 2.0 </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v-ishnu&label=Profile%20views&color=0e75b6&style=flat" alt="v-ishnu" /> </p>
-
 <h4>1. Eligibility</h4>
 
 <p>The COD-A-FESTx 2.0 is designed to empower individuals from all walks of life. We enthusiastically welcome participation from anyone residing in Lovely Professional University who possesses a fervent passion for innovation and a tenacious spirit for tackling real-world challenges. There are no restrictions based on age, background, or prior experience.
