@@ -1,12 +1,12 @@
 **[Register Yourself](https://v-ishnu.github.io/Home/)**
 <h1 align="center">Terms & Condition</h1>
 <h3 align="left">Terms and Conditions for the COD-A-FESTx 2.0 </h3>
-<h4>1. Eligibility </h4>
 
-<p style="color:Tomato;">The **COD-A-FESTx 2.0** is designed to empower individuals from all walks of life. We enthusiastically welcome participation from anyone residing in Lovely Professional University who possesses a fervent passion for innovation and a tenacious spirit for tackling real-world challenges. There are no restrictions based on age, background, or prior experience.
-</p>
+## 1. Eligibility
 
-<h4>2. Registration </h4>
+The **COD-A-FESTx 2.0** is designed to empower individuals from all walks of life. We enthusiastically welcome participation from anyone residing in Lovely Professional University who possesses a fervent passion for innovation and a tenacious spirit for tackling real-world challenges. There are no restrictions based on age, background, or prior experience.
+
+### 2. Registration 
 
 Participation in the COD-A-FESTx 2.0 is entirely free. We champion inclusivity and believe that financial constraints should not impede participation in such a transformative event. Registration can be conveniently completed online at the following link: **[Register Yourself](https://forms.gle/NKDJmi3fk8zznuqF9)**. The registration deadline is **11th April, 2024**.
 
