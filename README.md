@@ -4,7 +4,7 @@
 
 <h3>1. Eligibility </h3>
 
-The **COD-A-FESTx 2.0** is designed to empower individuals from all walks of life. We enthusiastically welcome participation from anyone residing in Lovely Professional University who possesses a fervent passion for innovation and a tenacious spirit for tackling real-world challenges. There are no restrictions based on age, background, or prior experience.
+The <b>COD-A-FESTx 2.0</b> is designed to empower individuals from all walks of life. We enthusiastically welcome participation from anyone residing in Lovely Professional University who possesses a fervent passion for innovation and a tenacious spirit for tackling real-world challenges. There are no restrictions based on age, background, or prior experience.
 
 <h3>2. Registration </h3>
 
