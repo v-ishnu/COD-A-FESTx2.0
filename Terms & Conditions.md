@@ -1,5 +1,5 @@
-**[PortFolio](https://v-ishnu.github.io/Home/)**
-<h1 align="center">Hi 👋, I'm Vishnu Prakash</h1>
+**[Register Yourself](https://v-ishnu.github.io/Home/)**
+<h1 align="center">Terms & Condition</h1>
 <h3 align="center">An enthusiastic individual who eagerly embraces emerging trends and technologies in the market, demonstrating a strong desire to continuously expand their knowledge and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-ishnu&label=Profile%20views&color=0e75b6&style=flat" alt="v-ishnu" /> </p>
