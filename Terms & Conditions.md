@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-ishnu&label=Profile%20views&color=0e75b6&style=flat" alt="v-ishnu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <h4>1. Eligibility</h4>
 
 <p>The COD-A-FESTx 2.0 is designed to empower individuals from all walks of life. We enthusiastically welcome participation from anyone residing in Lovely Professional University who possesses a fervent passion for innovation and a tenacious spirit for tackling real-world challenges. There are no restrictions based on age, background, or prior experience.
