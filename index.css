@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
-
+*{
+    font-family: poppins;
+}
 body{
     margin: 0px 200px 0px 200px;
+}
+
+.header h1{
+    align:center;
 }
