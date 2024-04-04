@@ -2,10 +2,60 @@
 *{
     font-family: poppins;
 }
+p {
+    font-size: 16px;
+}
 body{
     /* margin: 0px 200px 0px 200px; */
 }
 
 .header h1{
-    align:center;
+ text-align:center;
+}
+
+
+ 
+/* For screens smaller than 768px (tablets and phones) */
+@media (max-width: 768px) {
+    body{
+        margin: 0 50px 0 50px;
+
+    }
+    h1{
+        font-size: 28px;
+    }
+
+    p{
+        font-size: 14px;
+    }
+  }
+  
+  /* For screens between 768px and 1024px (laptops) */
+  @media (min-width: 768px) and (max-width: 1024px) {
+    body{
+        margin: 0 200px 0 200px;
+    }
+    h1{
+        font-size: 33px;
+    }
+
+    p{
+        font-size: 16px;
+    }
+    
+    
+  }
+  
+  /* For screens larger than 1024px (large screens) */
+  @media (min-width: 1024px) {
+    body{
+        margin: 0 200px 0 200px;
+    }
+    h1{
+        font-size: 38px;
+    }
+    
+    p{
+        font-size: 18px;
+    }
 }
