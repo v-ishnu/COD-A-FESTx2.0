@@ -8,10 +8,8 @@ The **COD-A-FESTx 2.0** is designed to empower individuals from all walks of lif
 
 <h3>2. Registration </h3>
 
-Participation in the COD-A-FESTx 2.0 is entirely free. We champion inclusivity and believe that financial constraints should not impede participation in such a transformative event. Registration can be conveniently completed online at the following link: **[Register Yourself](https://forms.gle/NKDJmi3fk8zznuqF9)**. The registration deadline is **11th April, 2024**.
-
-<a href="https://forms.gle/NKDJmi3fk8zznuqF9">Register Yourself</a>
-
+Participation in the COD-A-FESTx 2.0 is entirely free. We champion inclusivity and believe that financial constraints should not impede participation in such a transformative event. Registration can be conveniently completed online at the following link: <a href="https://forms.gle/NKDJmi3fk8zznuqF9">Register Yourself</a>. The registration deadline is **11th April, 2024**.
+<br>
 By registering for the COD-A-FESTx 2.0, you acknowledge that you have thoroughly reviewed and comprehended these Terms and Conditions and agree to be bound by their stipulations.
 
 <h3>3. Optional Certificate of Participation </h3>
