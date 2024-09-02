@@ -8,13 +8,13 @@ The **COD-A-FESTx 2.0** is designed to empower individuals from all walks of lif
 
 <h3>2. Registration </h3>
 
-Participation in the COD-A-FESTx 2.0 is entirely free. We champion inclusivity and believe that financial constraints should not impede participation in such a transformative event. Registration can be conveniently completed online at the following link: **[Register Yourself](https://forms.gle/NKDJmi3fk8zznuqF9)**. The registration deadline is **11th April, 2024**.
+Participation in the COD-A-FESTx 2.0 is entirely free. We champion inclusivity and believe that financial constraints should not impede participation in such a transformative event. Registration can be conveniently completed online at the following link: **[Register Yourself](https://forms.gle/NKDJmi3fk8zznuqF9)**. The registration deadline is **05th SEPT, 2024**.
 
 By registering for the COD-A-FESTx 2.0, you acknowledge that you have thoroughly reviewed and comprehended these Terms and Conditions and agree to be bound by their stipulations.
 
 <h3>3. Optional Certificate of Participation </h3>
 
-While participation in the COD-A-FESTx 2.0 itself is cost-free, an official Certificate of Participation is available for those who desire formal recognition of their invaluable contribution.  This prestigious certificate serves as a valuable addition to your professional portfolio, demonstrably showcasing your involvement in a highly esteemed innovation event and the invaluable skills honed during the competition. The nominal fee for the optional Certificate of Participation is ₹99.
+While participation in the COD-A-FESTx 2.0 itself is cost-free, an official Certificate of Participation is available for those who desire formal recognition of their invaluable contribution.  This prestigious certificate serves as a valuable addition to your professional portfolio, demonstrably showcasing your involvement in a highly esteemed innovation event and the invaluable skills honed during the competition.
 
 <h3>4. COD-A-FESTx 2.0 Project </h3>
 
